@@ -16,7 +16,7 @@ use tui::{
 };
 
 mod app;
-
+mod help_view;
 mod git;
 mod git_utils;
 mod tui_module;
